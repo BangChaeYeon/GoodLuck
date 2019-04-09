@@ -1,0 +1,428 @@
+#rule{
+    position: absolute;
+    top: 457px;
+    left: 107px;
+}
+
+#start{
+    position: absolute;
+    top: 457px;
+    left: 337px;
+}
+
+#setUp{
+    position: absolute;
+    top: 457px;
+    left: 567px;
+}
+
+#restart{
+    position: absolute;
+    top: 457px;
+    left: 337px;
+    visibility: hidden;
+}
+
+#gamebg{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#win{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#draw{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#defeat{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#shuffle{
+    position: absolute;
+    top: 380px;
+    left: 357px;
+    width: 110px;
+    height: 40px;
+    visibility: hidden;
+}
+
+#ruleBtn{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 70px;
+    height: 70px;
+    visibility: hidden;
+}
+
+#settingBtn{
+    position: absolute;
+    top: 30px;
+    left: 710px;
+    width: 70px;
+    height: 70px;
+    visibility: hidden;
+}
+
+#result{
+    position: absolute;
+    top: 380px;
+    left: 357px;
+    width: 110px;
+    height: 40px;
+    visibility: hidden;
+}
+
+#rp1{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#rp2{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#rpbtn1{
+    position: absolute;
+    top: 270px;
+    left: 720px;
+    visibility: hidden;
+}
+
+#rpbtn2{
+    position: absolute;
+    top: 270px;
+    left: 30px;
+    visibility: hidden;
+}
+
+#resultbtn{
+    position: absolute;
+    top: 250px;
+    left: 720px;
+    visibility: hidden;
+}
+
+#rpc{
+    position: absolute;
+    top: 7px;
+    left: 707px;
+    visibility: hidden;
+}
+
+#sp{
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#spc{
+    position: absolute;
+    top: 7px;
+    left: 707px;
+    visibility: hidden;
+}
+
+#highcard1{
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#highcard2{
+    position: absolute;
+    top: 370px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#onepair1{
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#onepair2{
+    position: absolute;
+    top: 370px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#twopairs1{
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#twopairs2{
+    position: absolute;
+    top: 370px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#triple1{
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#triple2{
+    position: absolute;
+    top: 370px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#straight1{
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#straight2{
+    position: absolute;
+    top: 370px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#straightflush1{
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#straightflush2{
+    position: absolute;
+    top: 370px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#fullhouse1{
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#fullhouse2{
+    position: absolute;
+    top: 370px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#quads1{
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#quads2{
+    position: absolute;
+    top: 370px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#flush1{
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#flush2{
+    position: absolute;
+    top: 370px;
+    left: 7px;
+    visibility: hidden;
+}
+
+#playerCard1{
+    position: absolute;
+    width: 100px;
+    height: 130px;
+    top: 457px;
+    left: 57px;
+    visibility: hidden;
+}
+#playerCard2{
+    position: absolute;
+    width: 100px;
+    height: 130px;
+    top: 457px;
+    left: 207px;
+    visibility: hidden;
+}
+#playerCard3{
+    position: absolute;
+    width: 100px;
+    height: 130px;
+    top: 457px;
+    left: 357px;
+    visibility: hidden;
+}
+#playerCard4{
+    position: absolute;
+    width: 100px;
+    height: 130px;
+    top: 457px;
+    left: 507px;
+    visibility: hidden;
+}
+#playerCard5{
+    position: absolute;
+    width: 100px;
+    height: 130px;
+    top: 457px;
+    left: 657px;
+    visibility: hidden;
+}
+
+#computerCard1{
+    position: absolute;
+    width: 50px;
+    height: 65px;
+    top: 50px;
+    left: 225px;
+    visibility: hidden;
+}
+#computerCard2{
+    position: absolute;
+    width: 50px;
+    height: 65px;
+    top: 50px;
+    left: 305px;
+    visibility: hidden;
+}
+#computerCard3{
+    position: absolute;
+    width: 50px;
+    height: 65px;
+    top: 50px;
+    left: 385px;
+    visibility: hidden;
+}
+#computerCard4{
+    position: absolute;
+    width: 50px;
+    height: 65px;
+    top: 50px;
+    left: 465px;
+    visibility: hidden;
+}
+#computerCard5{
+    position: absolute;
+    width: 50px;
+    height: 65px;
+    top: 50px;
+    left: 545px;
+    visibility: hidden;
+}
+#deck{
+    position: absolute;
+    width: 75px;
+    height: 97.5px;
+    top: 240px;
+    left: 370px;
+    visibility: hidden;
+}
+
+#slider {
+    position: absolute;
+    -webkit-appearance: none;
+    width: 450px;
+    height: 15px;
+    top: 235px;
+    left: 170px;
+    border-radius: 5px;   
+    background: #ffffff;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    visibility: hidden;
+}
+
+#slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    /* appearance: none; */
+    width: 25px;
+    height: 25px;
+    border-radius: 50%; 
+    background: #e6b713;
+    cursor: pointer;
+}
+
+#slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #e6b713;
+    cursor: pointer;
+}
+
+#onBg{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 350px;
+    left: 400px;
+    visibility: hidden;
+}
+
+#offBg{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 350px;
+    left: 400px;
+    visibility: hidden;
+}
+#onEffect{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 420px;
+    left: 400px;
+    visibility: hidden;
+}
+#offEffect{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 420px;
+    left: 400px;
+    visibility: hidden;
+}
